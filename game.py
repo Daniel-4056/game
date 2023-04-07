@@ -19,7 +19,7 @@ def computermove():
     return actions
      
 
-print("ho welcome to rock-paper-scissors game ")
+print("hi welcome to rock-paper-scissors game ")
 player_name=input(" please enter your name : ")
 print(f"{player_name} lets start the game")
 
